@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad-Nobaveh
+- 👋 Hi, I’m Mohammad-Nobaveh
 - 👀 I’m interested in machine learning & AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python developer
